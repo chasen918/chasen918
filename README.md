@@ -4,7 +4,7 @@
   - 🥰 I’m studying communication engineering at the university of 🦕.
   - 🏡 This is my blog [CCs' Zone](https://ccs.zone)
 ## ⚙️ Tech
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
+  ![C](https://img.shields.io/badge/-C-333333?color=yellow&style=flat&logo=C)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
