@@ -10,11 +10,15 @@
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
   ![matlab](https://img.shields.io/badge/-MATLAB-333333?style=flat&logo=matlab)
 ## 🍭 Learning
+  ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=Android)
   ![Golang](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS)
   ![javaScript](https://img.shields.io/badge/-javaScript-333333?style=flat&logo=javaScript)
 
-![info](https://github-readme-stats.vercel.app/api?username=caicheng918&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+<a href="https://github.com/caicheng918">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caicheng918&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caicheng918&theme=buefy&layout=compact" />
+</a>
 
 <!--
 **caicheng918/caicheng918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
