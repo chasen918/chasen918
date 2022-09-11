@@ -1,7 +1,6 @@
 ### Hello! 👋 Welcome to visit!🤣
 
 ## ❤️ About me
-  - 🥰 I’m studying communication engineering at the university of 🦕.
   - 🏡 This is my blog [CCs' Zone](https://ccs.zone)
 ## ⚙️ Tech
   ![C](https://img.shields.io/badge/-C-333333?color=yellow&style=flat&logo=C)
